@@ -1,0 +1,32 @@
+plugins {
+  id 'java'
+  id 'groovy'
+  id 'com.github.johnrengelman.shadow' version '4.0.4'
+  id "com.katalon.gradle-plugin" version "0.0.6"
+}
+
+repositories {
+  jcenter()
+  mavenCentral()
+}
+
+dependencies {
+compile 'org.eclipse.jetty:jetty-client:9.4.3.v20170317'
+compile 'org.eclipse.jetty:jetty-http:9.4.3.v20170317'
+compile 'org.eclipse.jetty:jetty-io:9.4.3.v20170317'
+compile 'org.eclipse.jetty:jetty-util:9.4.3.v20170317'
+compile 'org.eclipse.jetty.websocket:websocket-api:9.4.3.v20170317'
+compile 'org.eclipse.jetty.websocket:websocket-client:9.4.3.v20170317'
+compile 'org.eclipse.jetty.websocket:websocket-common:9.4.3.v20170317'
+}
+
+
+sourceSets {
+  main {
+    groovy {
+      srcDirs = ['Keywords', 'Include/scripts/groovy']
+      srcDir 'Libs'
+    }
+  }
+}
+
