@@ -114,14 +114,14 @@
 	<classpathentry kind="lib" path="C:/Downloads/Katalon_Studio_Windows_64-6.1.5/plugins/com.google.http-client.google-http-client_1.22.0.jar"/>
 	<classpathentry kind="lib" path="C:/Downloads/Katalon_Studio_Windows_64-6.1.5/plugins/ca.juliusdavies.not-yet-commons-ssl_0.3.11.jar"/>
 	<classpathentry kind="lib" path="C:/Downloads/Katalon_Studio_Windows_64-6.1.5/plugins/com.kms.katalon.preferences_1.0.0.201906210933.jar"/>
-	<classpathentry kind="lib" path="C:/Users/abirami/Katalon Studio/WebSocketPlugIn/Drivers/jetty-client-9.4.3.v20170317.jar"/>
-	<classpathentry kind="lib" path="C:/Users/abirami/Katalon Studio/WebSocketPlugIn/Drivers/jetty-http-9.4.3.v20170317.jar"/>
-	<classpathentry kind="lib" path="C:/Users/abirami/Katalon Studio/WebSocketPlugIn/Drivers/jetty-io-9.4.3.v20170317.jar"/>
-	<classpathentry kind="lib" path="C:/Users/abirami/Katalon Studio/WebSocketPlugIn/Drivers/jetty-util-9.4.3.v20170317.jar"/>
-	<classpathentry kind="lib" path="C:/Users/abirami/Katalon Studio/WebSocketPlugIn/Drivers/websocket-api-9.4.3.v20170317.jar"/>
-	<classpathentry kind="lib" path="C:/Users/abirami/Katalon Studio/WebSocketPlugIn/Drivers/websocket-client-9.4.3.v20170317.jar"/>
-	<classpathentry kind="lib" path="C:/Users/abirami/Katalon Studio/WebSocketPlugIn/Drivers/websocket-common-9.4.3.v20170317.jar"/>
-	<classpathentry kind="lib" path="C:/Users/abirami/Katalon Studio/WebSocketPlugIn/Plugins/WebSocketPlugIn.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abirami/Katalon Studio/crowdDJ_Android/WebSocketPlugIn/Drivers/jetty-client-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abirami/Katalon Studio/crowdDJ_Android/WebSocketPlugIn/Drivers/jetty-http-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abirami/Katalon Studio/crowdDJ_Android/WebSocketPlugIn/Drivers/jetty-io-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abirami/Katalon Studio/crowdDJ_Android/WebSocketPlugIn/Drivers/jetty-util-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abirami/Katalon Studio/crowdDJ_Android/WebSocketPlugIn/Drivers/websocket-api-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abirami/Katalon Studio/crowdDJ_Android/WebSocketPlugIn/Drivers/websocket-client-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abirami/Katalon Studio/crowdDJ_Android/WebSocketPlugIn/Drivers/websocket-common-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abirami/Katalon Studio/crowdDJ_Android/WebSocketPlugIn/Plugins/WebSocketPlugIn.jar"/>
 	<classpathentry kind="lib" path="C:/Downloads/Katalon_Studio_Windows_64-6.1.5/configuration/plugin/install/9469/1.0.0/katalon-studio-ashot-plugin.jar"/>
 	<classpathentry exported="true" kind="con" path="GROOVY_SUPPORT"/>
 	<classpathentry kind="output" path="bin"/>
